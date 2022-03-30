@@ -16,7 +16,8 @@ public class c{
 //            if(p1.negate().test(x))
 //                System.out.println(x);
 //        }
-        System.out.println("deepesh singh");
+        System.out.println("deepesh ");
+        System.out.println("sharma");
     }
 }
 
